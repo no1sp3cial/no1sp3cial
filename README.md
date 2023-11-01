@@ -1,4 +1,6 @@
 ### Hi there 👋
+I <3 Problem Solving and Learning about new things.
+
 
 <!--
 **no1sp3cial/no1sp3cial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
